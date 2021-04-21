@@ -6,4 +6,4 @@
   
   the result of n=4
   
-![image]()
+![image](https://github.com/Muqing-luo/block_chain/blob/main/result_of_n=4.png?raw=true)
